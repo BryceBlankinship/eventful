@@ -1,4 +1,4 @@
-package com.bryceblankinship.eventful.dao;
+package com.bryceblankinship.eventful.dto;
 
 public class CoordinatesDTO {
 
